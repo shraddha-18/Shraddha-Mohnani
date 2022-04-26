@@ -1,3 +1,3 @@
 # Welcome to my Homepage!
 
-![BHNS merger](gravwav.jpg)
+![BHNS merger](GravWav.jpg)
